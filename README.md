@@ -24,3 +24,7 @@ email : rnwkdbs12@gmail.com
 
 - 안녕하세요! 잘부탁드려요 
 
+<br/>
+### 김예림, 새로운 내용
+이메일을 안적었네요
+email : kimyerimweb@gmail.com
